@@ -10,18 +10,18 @@ Interested in networking and business analytics.
 
 ## Featured Projects (Click Project Title to Visit Repo and View Documentation!)
 
-### [HTTP/HTTPS Proxy Server with Traffic Analytics](https://github.com/CthulhuSpecimen/http_proxy)
+### [HTTP/HTTPS Proxy Server with Traffic Analytics](https://github.com/mmaldonado003/http_proxy)
 Multithreaded network monitoring and security tool with SQLite database backend
 - Handles 50+ concurrent connections with domain blocking and rate limiting
 - Processed 2,100+ requests with performance analytics (TTFB, bandwidth, duration)
 - Automated reporting with SQLite, JSON logs and visualization
 
-### [TCP/UDP Protocol Performance Analysis](https://github.com/CthulhuSpecimen/TCP-UDP-Client-Server)
+### [TCP/UDP Protocol Performance Analysis](https://github.com/mmaldonado003/TCP-UDP-Client-Server)
 Data-driven analysis study comparing transport protocols for infrastructure planning.
 - 0% data loss with TCP vs 1.8-10.3% with UDP across 6 test iterations
 - Analyzed 4.2 MB of transfers for infrastructure planning recommendations
 
-### [Steamwell Inc. - 3D Capstone Game](https://github.com/CthulhuSpecimen/Steamwell-Inc.---3D-Capstone-Game-Project)
+### [Steamwell Inc. - 3D Capstone Game](https://github.com/mmaldonado003/Steamwell-Inc.---3D-Capstone-Game-Project)
 Semester-long Unreal Engine 5 game production as Scrum Master and Technical Lead.
 - Managed 15 sprints for 7-person cross-functional team
 - Delivered complete game with GDD, sprint reports, and presentations to industry
